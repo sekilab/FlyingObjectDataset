@@ -1,6 +1,8 @@
 <div id="top"></div>
-[![Stargazers][stars-shield]][stars-url]
+
+[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+
 
 <br />
 <div align="center">
@@ -34,11 +36,10 @@ Ashutosh Kumar  - sekimoto[at]csis.u-tokyo.ac.jp
 
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
-
 <!-- ACKNOWLEDGMENTS -->
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[stars-shield]: https://img.shields.io/github/stars/sekilab/FlyingObjectDataset
-[stars-url]: https://github.com/sekilab/FlyingObjectDataset/stargazers
-[license-shield]: https://img.shields.io/github/license/sekilab/FlyingObjectDataset
-[license-url]: https://github.com/sekilab/FlyingObjectDataset/master/LICENSE
+[stars-shield]: https://img.shields.io/github/stars/sekilab/VehicleOrientationDataset
+[stars-url]: https://github.com/sekilab/VehicleOrientationDataset/stargazers
+[license-shield]: https://img.shields.io/github/license/sekilab/VehicleOrientationDataset
+[license-url]: https://github.com/sekilab/VehicleOrientationDataset/blob/main/LICENSE.txt
