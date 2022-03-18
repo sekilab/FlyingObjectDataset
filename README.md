@@ -1,9 +1,5 @@
 <div id="top"></div>
 
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
-
 <br />
 <div align="center">
   <h3 align="center">The Flying Object Dataset</h3>
@@ -32,14 +28,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 For any question and support, please create an issue on GitHub or write to the author here:
 
-Ashutosh Kumar  - sekimoto[at]csis.u-tokyo.ac.jp
+Sekimoto lab.  - sekimoto[at]csis.u-tokyo.ac.jp
 
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
-<!-- ACKNOWLEDGMENTS -->
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[stars-shield]: https://img.shields.io/github/stars/sekilab/VehicleOrientationDataset
-[stars-url]: https://github.com/sekilab/VehicleOrientationDataset/stargazers
-[license-shield]: https://img.shields.io/github/license/sekilab/VehicleOrientationDataset
-[license-url]: https://github.com/sekilab/VehicleOrientationDataset/blob/main/LICENSE.txt
