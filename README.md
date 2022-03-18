@@ -12,7 +12,7 @@
 
 
 ## Annotation style
-All flying objects in the flying object dataset are labeled with vehicle class (three categories).
+All flying objects in the flying object dataset are labeled with object class (three categories).
 
 Please note that the annotations are provided in `YOLO` format style ([darknet](https://github.com/AlexeyAB/darknet)). There is a `.txt`-file for each `.jpg`-image-file - in the same directory and with the same name. Each line contains the class and bounding box coordinates for a flying object in the image. If there are multiple flying objects in the image, the number of lines will increase accordingly.
 
