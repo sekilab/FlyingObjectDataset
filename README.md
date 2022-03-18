@@ -22,9 +22,7 @@
 
 ## Download Dataset
 
-### Download links
-
-- [Part-1, 50,000 images]()
+- [Download link]()
 
 <!-- LICENSE -->
 ## License
@@ -53,7 +51,7 @@ Ashutosh Kumar  - sekimoto[at]csis.u-tokyo.ac.jp
 [issues-shield]: https://img.shields.io/github/issues/sekilab/FlyingObjectDataset
 [issues-url]: https://github.com/sekilab/FlyingObjectDataset/issues
 [license-shield]: https://img.shields.io/github/license/sekilab/FlyingObjectDataset
-[license-url]: https://github.com/sekilab/FlyingObjectDataset/blob/main/LICENSE.txt
+[license-url]: https://github.com/sekilab/FlyingObjectDataset/blob/main/LICENSE
 [modified-shield]: https://img.shields.io/github/last-commit/sekilab/FlyingObjectDataset/main
 [paper-url]: https://github.com/sekilab/FlyingObjectDataset/commits/main
 [product-screenshot]: media/sample_annotations.png
