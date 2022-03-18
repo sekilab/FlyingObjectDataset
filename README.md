@@ -18,6 +18,26 @@
 </div>
 
 
+## Annotation style
+
+## Download Dataset
+
+### Download links
+
+- [Part-1, 50,000 images]()
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<!-- CONTACT -->
+## Contact
+
+For any question and support, please create an issue on GitHub or write to the author here:
+
+Ashutosh Kumar  - sekimoto[at]csis.u-tokyo.ac.jp
+
 
 <p align="right">(<a href="#top">Back to top</a>)</p>
 
