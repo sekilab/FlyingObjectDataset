@@ -12,6 +12,11 @@
 
 
 ## Annotation style
+All flying objects in the flying object dataset are labeled with vehicle class (three categories).
+
+bird
+heli
+airplane
 
 ## Download Dataset
 
