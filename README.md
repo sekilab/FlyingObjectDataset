@@ -5,10 +5,9 @@
   <h3 align="center">The Flying Object Dataset</h3>
 
   <p align="center">
-    The vehicle orientation dataset contains more than one million annotations of vehicles with orientation in more than 200,000 images. It reduces the need of a secondary neural network to classify orientation by simultaneously providing both vehicle class and direction. Here is our published paper at IEEE International Conference on Big Data 2021:
+    The flying object dataset contains more than one million annotations of flying objects in more than 200,000 images. Here is our published paper in Sensors:
     <br />
-    <a href="#dataset">Download Flying Object Dataset</a>
-  </p>
+    <a href="https://doi.org/10.3390/s20247071"><strong>Sky Monitoring System for Flying Object Detection Using 4K Resolution Camera</strong> </a>
 </div>
 
 
