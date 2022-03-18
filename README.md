@@ -45,13 +45,11 @@ Ashutosh Kumar  - sekimoto[at]csis.u-tokyo.ac.jp
 [contributors-shield]: https://img.shields.io/github/contributors/sekilab/FlyingObjectDataset
 [contributors-url]: https://github.com/sekilab/FlyingObjectDataset/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/sekilab/FlyingObjectDataset
-[forks-url]: https://github.com/sekilab/FlyingObjectDataset/network/members
 [stars-shield]: https://img.shields.io/github/stars/sekilab/FlyingObjectDataset
 [stars-url]: https://github.com/sekilab/FlyingObjectDataset/stargazers
 [issues-shield]: https://img.shields.io/github/issues/sekilab/FlyingObjectDataset
 [issues-url]: https://github.com/sekilab/FlyingObjectDataset/issues
 [license-shield]: https://img.shields.io/github/license/sekilab/FlyingObjectDataset
-[license-url]: https://github.com/sekilab/FlyingObjectDataset/blob/main/LICENSE
-[modified-shield]: https://img.shields.io/github/last-commit/sekilab/FlyingObjectDataset/main
-[paper-url]: https://github.com/sekilab/FlyingObjectDataset/commits/main
+[license-url]: https://github.com/sekilab/FlyingObjectDataset/blob/master/LICENSE
+[modified-shield]: https://img.shields.io/github/last-commit/sekilab/FlyingObjectDataset/master
 [product-screenshot]: media/sample_annotations.png
