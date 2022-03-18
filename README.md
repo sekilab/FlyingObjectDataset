@@ -1,9 +1,6 @@
 <div id="top"></div>
-
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-
 
 <br />
 <div align="center">
@@ -41,14 +38,7 @@ Ashutosh Kumar  - sekimoto[at]csis.u-tokyo.ac.jp
 <!-- ACKNOWLEDGMENTS -->
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/sekilab/FlyingObjectDataset
-[contributors-url]: https://github.com/sekilab/FlyingObjectDataset/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sekilab/FlyingObjectDataset
 [stars-shield]: https://img.shields.io/github/stars/sekilab/FlyingObjectDataset
 [stars-url]: https://github.com/sekilab/FlyingObjectDataset/stargazers
-[issues-shield]: https://img.shields.io/github/issues/sekilab/FlyingObjectDataset
-[issues-url]: https://github.com/sekilab/FlyingObjectDataset/issues
 [license-shield]: https://img.shields.io/github/license/sekilab/FlyingObjectDataset
-[license-url]: https://github.com/sekilab/FlyingObjectDataset/blob/master/LICENSE
-[modified-shield]: https://img.shields.io/github/last-commit/sekilab/FlyingObjectDataset/master
-[product-screenshot]: media/sample_annotations.png
+[license-url]: https://github.com/sekilab/FlyingObjectDataset/master/LICENSE
