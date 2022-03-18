@@ -5,7 +5,7 @@
   <h3 align="center">The Flying Object Dataset</h3>
   <p align="center"><img src="20190621002442468062.jpg" width="50%" height="auto"></p>
   <p align="center">
-    The flying object dataset contains more than one million annotations of flying objects in more than 1,630 images. The images in the dataset were collected with a camera installed on the 42nd floor of Roppongi Hills in Tokyo. The development of the dataset was realized with the cooperation of Mori Building. Here is our published paper in Sensors:
+    The flying object dataset contains more than one million annotations of flying objects in more than 1,630 images. The images in the dataset were collected with a camera installed on the 42nd floor of Roppongi Hills in Tokyo. The development of the dataset was realized with the cooperation of Mori Building Co., Ltd.. Here is our published paper in Sensors:
     <br />
     <a href="https://doi.org/10.3390/s20247071"><strong>Sky Monitoring System for Flying Object Detection Using 4K Resolution Camera</strong> </a>
 </div>
