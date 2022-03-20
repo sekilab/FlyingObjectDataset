@@ -26,6 +26,15 @@ object-class: 0:bird (74 annotations), 1:heli (1,392 annotations), 2:airplane (1
 
 - [Download]()
 
+<!-- CITATION -->
+## Citation
+If you use or find out our dataset useful, please cite our paper in the journal of Sensors:
+
+Takehiro Kashiyama, Hideaki Sobue, Yoshihide Sekimoto, Sky Monitoring System for Flying Object Detection Using 4K Resolution Camera, Sensors 2020, 20(24)
+
+## Patent
+Japan patent: JP6364101B.
+
 <!-- LICENSE -->
 ## License
 
